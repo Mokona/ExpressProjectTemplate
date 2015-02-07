@@ -2,6 +2,6 @@ ExpressProjectTemplate is a skeleton of an application using express and tested 
 
 It can be used for quick starting with a working environement.
 
-To pass the tests:
+To run the tests:
 
-  npm test
+    npm test
